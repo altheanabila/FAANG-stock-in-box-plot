@@ -6,14 +6,18 @@ I try to visualize the closing price of FAANG stock, using Python libraries, suc
 
 [FAANG stock in box plot](https://github.com/altheanabila/FAANG-stock-in-box-plot/blob/main/FAANG%20stock.xlsx)
 
-2. read the excel data in by converting in pandaframes:
+2. extracting excel data into pandaframes:
+
 
 ![Test Image 1](https://github.com/altheanabila/FAANG-stock-in-box-plot/blob/main/FAANG%20table.png)
 
 3. Define df
 
+
 ![Test Image 1](https://github.com/altheanabila/FAANG-stock-in-box-plot/blob/main/df%20FAANG.png)
 
 4. Using the command: `import plotly.express as px` you can see the descriptive analytics of each stock in that looks user friendly
 
+
 ![Test Image 1](https://github.com/altheanabila/FAANG-stock-in-box-plot/blob/main/FAANG%20boxplot.png)
+
